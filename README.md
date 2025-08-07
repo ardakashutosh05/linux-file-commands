@@ -29,7 +29,7 @@ This project covers essential Linux file operations and file transfer techniques
 📁 Practical examples are included in the `file_transfer/` folder.
 
 📷 Diagram:
-![Transfer Methods](diagrams/file-transfer-methods.png)
+![Transfer Methods](diagrams/file-structure.png)
 
 ---
 
